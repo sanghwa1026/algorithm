@@ -1,0 +1,3 @@
+language = "python3"
+#run = "python /home/runner/algorithm/교재/그리디/1이_될_때_까지.py"
+run = "python /home/runner/algorithm/교재/그리디/숫자_카드_게임.py"
