@@ -1,0 +1,4 @@
+﻿  String.cpp
+d:\study\day0720\day0720\string.cpp(30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\study\day0720\day0720\string.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  day0720.vcxproj -> D:\study\day0720\Debug\day0720.exe

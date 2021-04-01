@@ -1,0 +1,7 @@
+﻿  별찍기부터.cpp
+d:\study\day0714\day0714\별찍기부터.cpp(21): warning C4244: '=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=double
+          ]
+  day0714.vcxproj -> D:\study\day0714\Debug\day0714.exe
