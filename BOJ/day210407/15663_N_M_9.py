@@ -20,6 +20,3 @@ def solve(t,ss):
             visited[i] = False
 
 solve(0,'')
-#s = sorted(s)
-#for ss in s:
-#    print(ss)
